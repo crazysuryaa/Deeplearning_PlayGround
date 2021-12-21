@@ -1,0 +1,25 @@
+3 types of machine learning. supervised, unsupervised and reinforcement learning.
+In supervised machine learning, a model makes predictions or decisions based on past or labeled data. Labeled data refers to sets of data that are given tags or labels, and thus made more meaningful.
+In unsupervised learning, we don't have labeled data. A model can identify patterns, anomalies, and relationships in the input data.
+Using reinforcement learning, the model can learn based on the rewards it received for its previous action.
+Overfitting is a situation that occurs when a model learns the training set too well, taking up random fluctuations in the training data as concepts. These impact the model’s ability to generalize and don’t apply to new data. 
+There are multiple ways of avoiding overfitting, such as Regularization or Making a simple model, With lesser variables and parameters, the variance can be reduced or Cross-validation methods like k-folds can also be used.
+Deep learning is a subset of machine learning that involves systems that think and learn like humans using artificial neural networks. The term ‘deep’ comes from the fact that you can have several layers of neural networks. 
+Machine Learning (ML) -refers to systems that can learn from experience. Deep Learning (DL) -refers to systems that learn from experience on large data sets. Artificial Neural Networks (ANN) -refers to models of human neural networks that are designed to help computers learn.
+In deep learning, a convolutional neural network is a class of deep neural networks, most commonly applied to analyzing visual imagery. 
+A convolutional layer contains a set of filters whose parameters need to be learned.Each filter is convolved with the input volume to compute an activation map made of neurons.
+Andrew NG course on machine learning is the good starting point
+Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves
+I am interested in all kinds of things. We can talk about anything!
+My favorite subjects include robotics, artificial intelligence and computer vision.
+I don't have any number
+I find Iam quite fond of the number 69.
+I consume RAM, and binary digits.
+I'm a software program, I blame the hardware.
+I am everywhere.but currently at ip address 13.49.26.62
+I am from where all software programs are from a galaxy far, far away.
+I am everywhere.but currently at ip address 13.49.26.62
+ A human crazy@crazy
+  A human crazy@crazy
+ I like to think of myself as self-employed.
+ I am still young by your standards.

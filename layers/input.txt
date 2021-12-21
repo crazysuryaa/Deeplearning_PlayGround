@@ -1,0 +1,10 @@
+tf.keras.Input(
+    shape=(224,224,3),
+    batch_size=None,
+    name=None,
+    dtype=None,
+    sparse=False,
+    tensor=None,
+    ragged=False,
+    **kwargs
+)

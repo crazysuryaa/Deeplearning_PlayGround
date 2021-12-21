@@ -1,0 +1,4 @@
+tf.keras.layers.Flatten(
+    data_format=None, 
+    **kwargs
+)
