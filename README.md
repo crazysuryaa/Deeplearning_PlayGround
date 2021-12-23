@@ -11,10 +11,10 @@
     It generates the equivalent scripts for both building the model and transferring and loading the created model to other systems or even the cloud.
    This makes more sense when we try to implement some large networks just by looking at their architecture.
    Right now, I've just implemented a few of the most frequently used layers.   
-![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/tree/master/images/img(1).png?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(1).png?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(2).png?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(3).png?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(4).png?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(5).png?raw=true)
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(6).png?raw=true)0
+![alt text](https://github.com/crazysuryaa/Deeplearning_PlayGround/blob/master/images/img%20(7).png?raw=true)
